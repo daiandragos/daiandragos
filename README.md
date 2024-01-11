@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daian Dragos.
 - 👀 I’m interested in Frontend Web Development.
-- 🌱 I’m currently learning React...
+- 🌱 I’m currently learning about AWS services...
 
 
 <!---
